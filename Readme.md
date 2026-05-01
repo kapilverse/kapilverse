@@ -1,7 +1,6 @@
 <div align="center">
 <!-- Animated Typing Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+KapilVerse;Full+Stack+Alchemist;Building+Future+Web;Open+Source+Explorer;AI+%2B+Creativity" />
-
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-2c4b8f7f-1b70-4f6f-9b91-8c9c4c8c1a47.gif" width="100%" />
 
