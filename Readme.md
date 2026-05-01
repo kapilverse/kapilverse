@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Animated Typing Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=500&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+KapilVerse;Full+Stack+Alchemist;Building+Future+Web;Open+Source+Explorer;AI+%2B+Creativity" />
 
