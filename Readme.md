@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 <!-- Animated Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=kapilverse&label=✨+Visitors&color=FF69B4&style=for-the-badge" />
 
