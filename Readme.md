@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-2c4b8f7f-1b70-4f6f-9b91-8c9c4c8c1a47.gif" width="100%" />
 
 <p>
-  <a href="https://twitter.com/yadavkapil23">
+  <a href="https://twitter.com/_veltrix">
     <img src="https://img.shields.io/badge/Twitter-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kapil-516749313">
